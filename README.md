@@ -84,11 +84,11 @@
 
 ## **Let’s Connect 🤝**
 
-<a href="https://github.com/MostafaEzz">
+<a href="https://github.com/mostafaezz13">
   <img src="https://img.shields.io/badge/GitHub-MostafaEzz-000?style=for-the-badge&logo=github">
 </a>
 
-<a href="mailto:mostafa.ezz.dev@gmail.com">
+<a href="mailto:mostafaezz133@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
@@ -99,3 +99,5 @@
 ## **السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ 🤍**
 
 </div>
+
+Credit: [Mostafa Ezz](https://github.com/mostafaezz13)
